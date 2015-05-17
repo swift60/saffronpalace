@@ -59,7 +59,7 @@ a:hover,a:active { outline:none }
 
 a.more { display: inline-block; text-decoration: none; margin-top: 15px; color: #fff; width: 80px; height: 24px; line-height: 24px; text-align: center; background: url(images/templatemo_more.png) }
 
-ul.nobullet { margin: 0; padding: 0; list-style: none }
+ul.nobullet { margin: 0; padding: 5px; list-style: none }
 ul.nobullet li { margin: 0; padding: 0 }
 
 ul.list_bullet { margin: 10px 0 10px 15px; padding: 0; list-style: none }
